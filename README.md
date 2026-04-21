@@ -1,7 +1,7 @@
 # Dranken pro ai 
 
 <p align="center">
-  <a href="https://github.com/baptistajohn">
+  <a href="https://youtu.be/F3Cgi8ied1o">
     <img alt="Dranken pro ai" height="300" src="https://imgur.com/2OyTISM">
   </a>
 </p>
@@ -153,6 +153,5 @@ The WhatsApp Bot DRANKEN-PRO-AI 💫 is released under the [MIT License](https:/
 
 ★EVERYTHING SAY THANK YOU TO GOD. ©
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
      
