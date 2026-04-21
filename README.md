@@ -1,7 +1,7 @@
 # Dranken pro ai 
 
 <p align="center">
-  <a href="https://youtu.be/F3Cgi8ied1o">
+  <a href="https://github.com/baptistajohn">
     <img alt="Dranken pro ai" height="300" src="https://imgur.com/2OyTISM">
   </a>
 </p>
