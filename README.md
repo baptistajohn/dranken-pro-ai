@@ -123,7 +123,7 @@ _Termux Setup not recommended_
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/254769229309" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dulla contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ CONTACT CREATOR -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 <a href="https://whatsapp.com/channel/0029VbCM95fBadmYQ7NRti3i" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/WhatsApp  Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
