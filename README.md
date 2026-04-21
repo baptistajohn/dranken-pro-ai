@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/F3Cgi8ied1o">
-    <img alt="Dranken pro ai" height="300" src="https://files.catbox.moe/533oqh.jpg">
+    <img alt="Dranken pro ai" height="300" src="https://imgur.com/2OyTISM">
   </a>
 </p>
 <div align="center">
@@ -12,8 +12,8 @@
   </p>
 
 <p align="center">
-  <a href="https://github.com/abdallahsalimjuma">
-    <img alt="DRANKEN-PRO-AI logo" height="200" src="https://files.catbox.moe/533oqh.jpg">
+  <a href="https://github.com/baptistajohn">
+    <img alt="DRANKEN-PRO-AI logo" height="200" src="https://imgur.com/2OyTISM">
   </a>
 </p>
   
@@ -123,7 +123,7 @@ _Termux Setup not recommended_
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/254769229309" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ CONTACT CREATOR -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dulla contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 <a href="https://whatsapp.com/channel/0029VbCM95fBadmYQ7NRti3i" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/WhatsApp  Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -135,10 +135,10 @@ CONTACT DEVELOPER ON WHATSAPP
 ## License
 
 The WhatsApp Bot DRANKEN-PRO-AI 💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://imgur.com/2OyTISM'/></a>
 
 💫THANK YOU FOR CHOOSING DRANKEN-PRO-AI💫
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://imgur.com/2OyTISM'/></a>
 
 
 ## DEVELOPERS :
@@ -154,5 +154,5 @@ The WhatsApp Bot DRANKEN-PRO-AI 💫 is released under the [MIT License](https:/
 ★EVERYTHING SAY THANK YOU TO GOD. ©
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- DRANKEN PRO AI 🇰🇪 💥 bot server made with ❤️ 💯FASTEST  andthe SAFEST✅💪bot in KENYA and East Africa ✌️
+
      
